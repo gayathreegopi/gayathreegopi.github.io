@@ -2,11 +2,11 @@
 
 ### Education
 The University of Texas at Austin – McCombs School of Business  
-**Master of Science, Business Analytics - Financial Analytics Track** | GPA: 3.92/4.00  
+**MS, Business Analytics - Financial Analytics Track** | GPA: 3.92/4.00
 *May 2025*
 
 The University of Texas at Austin – College of Natural Sciences  
-**Bachelor of Science, Computational Biology** | Major GPA: 3.90/4.00  
+**Bachelor of Science, Computational Biology** | Major GPA: 3.90/4.00
 *May 2024*
 
 ### Projects
