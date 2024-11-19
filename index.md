@@ -1,4 +1,4 @@
-# Welcome to My Portfolio
+# Welcome to My Portfolio!
 
 Hello! I'm **Gayathree Gopi**, a passionate data enthusiast currently pursuing a Master of Science in Business Analytics at the University of Texas at Austin's McCombs School of Business. With a Bachelor of Science in Computational Biology from UT Austin, I blend my love for data science with a solid foundation in biological systems.
 
