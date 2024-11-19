@@ -6,10 +6,6 @@ permalink: /about/
 
 # About Me
 
-Hello!
-
-## I'm Gayathree
-
 I'm an MS Business Analytics student at UT Austin, where I specialize in using data-driven techniques to solve complex financial and healthcare challenges. With a strong background in computational biology and hands-on experience in real estate investment analysis, I enjoy leveraging data science to generate impactful insights.
 
 ## My Technical Background
