@@ -1,27 +1,22 @@
-# Aspiring Data Scientist and MSBA Student Specializing in Financial Analytics
+# Welcome to My Portfolio
 
-### Education
-The University of Texas at Austin – McCombs School of Business  
-**MS, Business Analytics - Financial Analytics Track** | GPA: 3.92/4.00  
-*May 2025*
+Hello! I'm **Gayathree Gopi**, a passionate data enthusiast currently pursuing a Master of Science in Business Analytics at the University of Texas at Austin's McCombs School of Business. With a Bachelor of Science in Computational Biology from UT Austin, I blend my love for data science with a solid foundation in biological systems.
 
-The University of Texas at Austin – College of Natural Sciences  
-**Bachelor of Science, Computational Biology** | Major GPA: 3.90/4.00  
-*May 2024*
+## About Me
 
-### Projects
-**[Crypto Price Prediction Using Sentiment and Financial Data](https://github.com/gayathreegopi/crypto-price-prediction)**  
-- Developed LSTM models integrating time series and sentiment analysis to forecast Bitcoin prices.
-- Optimized model performance with hyperparameter tuning and comparative analysis of various datasets.
+I thrive on transforming complex datasets into meaningful insights, particularly within the realms of finance and healthcare. My journey has equipped me with a diverse skill set, including:
 
-**[NASA and ISRO Social Media Social Media Analytics](https://github.com/gayathreegopi/nasa-isro-social-media-analytics)**  
-- Performed topic modeling and sentiment analysis on Reddit and Instagram to assess public opinion of NASA and ISRO.
-- Discovered key differences in public engagement, with NASA praised for deep space exploration and ISRO for cost-effective missions.
+- **Programming Languages**: Python, R, SQL
+- **Data Analysis & Visualization**: Tableau, Power BI, matplotlib
+- **Machine Learning Techniques**: Regression models, classification, clustering
+- **Natural Language Processing**: spaCy, NLTK
 
-**[NBA Player Performance Prediction](https://github.com/gayathreegopi/nba-player-stats-predictive-model)**  
-- Built predictive models using player statistics from the 2023 and 2024 seasons to forecast points scored.
-- Compared multiple algorithms, including Random Forest and k-Nearest Neighbors, to enhance prediction accuracy.
+Beyond the numbers, I have a creative side that I express through art and baking. I believe that a balance between analytical thinking and creativity leads to innovative solutions.
 
-**[Index Fund Portfolio Optimization](https://github.com/gayathreegopi/nasdaq100-portfolio-optimization)**  
-- Constructed a NASDAQ-100 tracking portfolio using integer and linear programming, minimizing tracking error.
-- Analyzed historical data to validate model effectiveness in replicating index performance.
+## Explore My Work
+
+Feel free to explore my projects and experiences showcased here. Each project reflects my commitment to leveraging data for impactful decision-making. If you'd like to connect or discuss potential collaborations, don't hesitate to reach out.
+
+---
+
+*Contact me at [gayathreegopi@utexas.edu](mailto:gayathreegopi@utexas.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/gayathreegopi/).*
