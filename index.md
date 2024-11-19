@@ -14,11 +14,11 @@ The University of Texas at Austin – College of Natural Sciences
 - Developed LSTM models integrating time series and sentiment analysis to forecast Bitcoin prices.
 - Optimized model performance with hyperparameter tuning and comparative analysis of various datasets.
 
-**[NASA and ISRO Social Media Sentiment Analysis](https://github.com/gayathreegopi/nasa-isro-sentiment-analysis)**  
+**[NASA and ISRO Social Media Sentiment Analysis](https://github.com/gayathreegopi/nasa-isro-social-media-analytics)**  
 - Performed topic modeling and sentiment analysis on Reddit and Instagram to assess public opinion of NASA and ISRO.
 - Discovered key differences in public engagement, with NASA praised for deep space exploration and ISRO for cost-effective missions.
 
-**[NBA Player Performance Prediction](https://github.com/gayathreegopi/nba-performance-prediction)**  
+**[NBA Player Performance Prediction](https://github.com/gayathreegopi/nba-player-stats-predictive-model)**  
 - Built predictive models using player statistics from the 2023 and 2024 seasons to forecast points scored.
 - Compared multiple algorithms, including Random Forest and k-Nearest Neighbors, to enhance prediction accuracy.
 
