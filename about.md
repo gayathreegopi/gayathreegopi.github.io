@@ -27,5 +27,5 @@ When I'm not diving into data, I love expressing my creativity through art and e
 
 ---
 
-*Feel free to reach out at [gayathreegopi@utexas.edu](mailto:gayathreegopi@utexas.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/gayathreegopi/).*
+*Contact me at [gayathreegopi@utexas.edu](mailto:gayathreegopi@utexas.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/gayathreegopi/).*
 
