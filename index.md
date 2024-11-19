@@ -11,7 +11,7 @@ I thrive on transforming complex datasets into meaningful insights, particularly
 - **Machine Learning Techniques**: Regression models, classification, clustering
 - **Natural Language Processing**: spaCy, NLTK
 
-Beyond the numbers, I have a creative side that I express through art and baking. I believe that a balance between analytical thinking and creativity leads to innovative solutions.
+Beyond the numbers, I have a creative side that I express through art and music. I believe that a balance between analytical thinking and creativity leads to innovative solutions.
 
 ## [Explore My Work](/projects/)
 
