@@ -12,7 +12,7 @@ I thrive on transforming complex datasets into meaningful insights, particularly
 
 Beyond the numbers, I have a creative side that I express through art and music. I believe that a balance between analytical thinking and creativity leads to innovative solutions.
 
-## [Explore My Work](/projects/)
+## [Explore My Projects](/projects/)
 
 Each project and experience showcased here reflects my commitment to leveraging data for impactful decision-making. If you'd like to connect or discuss potential collaborations, don't hesitate to reach out.
 
