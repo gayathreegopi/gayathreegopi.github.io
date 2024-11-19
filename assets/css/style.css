@@ -1,12 +1,19 @@
-/* Custom accent color */
-a {
-  color: purple;
-}
-a:hover {
-  color: darkpurple; /* Optional: change the hover color */
+/* Import the Montserrat font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+/* Apply Montserrat font to headings only */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  color: purple; /* Change heading color to purple */
 }
 
-/* Custom styles for headings or other accent text */
-h1, h2, h3, h4, h5, h6 {
-  color: purple;
+/* Change link colors to purple */
+a {
+  color: purple; /* Default link color */
+  text-decoration: none; /* Remove underline if desired */
+}
+
+a:hover {
+  color: #6a0dad; /* Darker shade of purple for hover */
+  text-decoration: underline; /* Underline on hover for accessibility */
 }
