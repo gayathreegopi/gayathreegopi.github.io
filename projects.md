@@ -20,3 +20,9 @@ permalink: /projects/
 ## **[Index Fund Portfolio Optimization](https://github.com/gayathreegopi/nasdaq100-portfolio-optimization)**  
 - Constructed a NASDAQ-100 tracking portfolio using integer and linear programming, minimizing tracking error
 - Analyzed historical data to validate model effectiveness in replicating index performance
+
+---
+
+*Contact me at [gayathreegopi@utexas.edu](mailto:gayathreegopi@utexas.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/gayathreegopi/).*
+
+
