@@ -4,18 +4,6 @@
 Master of Science in Business Analytics, University of Texas at Austin  
 Bachelor of Science in Computational Biology, University of Texas at Austin
 
-### Work Experience
-**Associate @ K7 Capital Partners (Part-Time)**  
-- Led investment analysis for $20M+ real estate deals, leveraging data-driven insights to guide strategic decisions.
-- Spearheaded LinkedIn analytics strategy, achieving a 7,600% increase in followers in six months.
-
-**Research Assistant @ Cambronne Lab**  
-- Conducted research on developing an NAD+ biosensor for mitochondrial tracking in cells, utilizing advanced statistical methods to optimize experimental outcomes.
-- Collaborated on the design and testing of biosensors, contributing to a better understanding of cellular biology.
-
-**Research Assistant @ Wolf Lab**  
-- Analyzed biological interactions to understand the impact of nitrogen fixation on biodiversity and ecosystem processes.
-
 ### Projects
 **Crypto Price Prediction Using Sentiment and Financial Data**  
 - Developed LSTM models integrating time series and sentiment analysis to forecast Bitcoin prices.
