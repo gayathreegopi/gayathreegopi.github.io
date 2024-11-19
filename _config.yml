@@ -1,8 +1,6 @@
 title: Gayathree Gopi
 theme: jekyll-theme-minimal
 logo: /profilepic.jpeg
-#include: 
-  #- assets/css/style.css
 nav_links:
   - title: Home
     url: /
