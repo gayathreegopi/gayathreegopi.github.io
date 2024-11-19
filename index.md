@@ -1,11 +1,13 @@
 # Aspiring Data Scientist and MSBA Student Specializing in Financial Analytics
 
 ### Education
-The University of Texas at Austin – McCombs School of Business  &nbsp; &nbsp; May 2025  
+The University of Texas at Austin – McCombs School of Business  
 **Master of Science, Business Analytics - Financial Analytics Track** | GPA: 3.92/4.00  
+*May 2025*
 
-The University of Texas at Austin – College of Natural Sciences  &nbsp; &nbsp; May 2024  
+The University of Texas at Austin – College of Natural Sciences  
 **Bachelor of Science, Computational Biology** | Major GPA: 3.90/4.00  
+*May 2024*
 
 ### Projects
 **[Crypto Price Prediction Using Sentiment and Financial Data](https://github.com/gayathreegopi/crypto-price-prediction)**  
