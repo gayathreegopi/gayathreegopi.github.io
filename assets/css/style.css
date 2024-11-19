@@ -4,17 +4,15 @@
 /* Apply Montserrat font to headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
-  color: purple;
+  color: purple; /* Change heading color to purple */
 }
 
-/* Apply Lato font to body text */
+/* Apply Lato font to the body text */
 body {
   font-family: 'Lato', sans-serif;
-  margin: 0; /* Reset margin to prevent unwanted spacing */
-  padding: 0; /* Reset padding to prevent unwanted spacing */
 }
 
-/* Style links */
+/* Style links to match the purple theme */
 a {
   color: purple;
   text-decoration: none;
