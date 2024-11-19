@@ -17,7 +17,7 @@ I'm an MS Business Analytics student at UT Austin, where I specialize in using d
 My journey has equipped me with a versatile set of technical skills across data science, finance, and research. At K7 Capital Partners, I analyzed multifamily real estate investments worth over $20 million, developing advanced financial models and leading data-driven strategies that achieved significant results. I've also built predictive models for cryptocurrency price forecasting using LSTM networks and conducted natural language processing projects to assess public sentiment for NASA and ISRO.
 
 **Key Technical Skills:**
-- **Programming**: Python (pandas, scikit-learn, TensorFlow), R, SQL, MATLAB
+- **Programming**: Python (pandas, scikit-learn, TensorFlow), R, SQL
 - **Data Analysis & Visualization**: Tableau, Power BI, matplotlib, ggplot2
 - **Machine Learning**: Regression models, classification, clustering, neural networks
 - **Optimization & Modeling**: Gurobi, linear programming, Monte Carlo simulation
