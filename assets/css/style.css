@@ -1,19 +1,26 @@
-/* Import the Montserrat font from Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+/* Import the Montserrat and Lato fonts from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Lato:wght@400;700&display=swap');
 
-/* Apply Montserrat font to headings only */
+/* Apply Montserrat font to headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
-  color: purple; /* Change heading color to purple */
+  color: purple;
 }
 
-/* Change link colors to purple */
+/* Apply Lato font to body text */
+body {
+  font-family: 'Lato', sans-serif;
+  margin: 0; /* Reset margin to prevent unwanted spacing */
+  padding: 0; /* Reset padding to prevent unwanted spacing */
+}
+
+/* Style links */
 a {
-  color: purple; /* Default link color */
-  text-decoration: none; /* Remove underline if desired */
+  color: purple;
+  text-decoration: none;
 }
 
 a:hover {
   color: #6a0dad; /* Darker shade of purple for hover */
-  text-decoration: underline; /* Underline on hover for accessibility */
+  text-decoration: underline;
 }
