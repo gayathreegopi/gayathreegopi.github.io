@@ -9,7 +9,7 @@ permalink: /projects/
 - Developing LSTM models integrating time series and sentiment analysis to forecast Bitcoin prices
 - Optimizing model performance with hyperparameter tuning and comparative analysis of various datasets
 
-## **[NASA and ISRO Social Media Social Media Analytics](https://github.com/gayathreegopi/nasa-isro-social-media-analytics)**  
+## **[NASA and ISRO Social Media Analytics](https://github.com/gayathreegopi/nasa-isro-social-media-analytics)**  
 - Performed topic modeling and sentiment analysis on Reddit and Instagram to assess public opinion of NASA and ISRO
 - Discovered key differences in public engagement, with NASA praised for deep space exploration and ISRO for cost-effective missions
 
