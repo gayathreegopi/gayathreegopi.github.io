@@ -23,7 +23,7 @@ I am passionate about applying these skills to real-world problems, whether itâ€
 
 ## Beyond Data
 
-When I'm not diving into data, I love expressing my creativity through art and experimenting with new recipes in the kitchen. I find joy in balancing the analytical and artistic sides of my life.
+When I'm not diving into data, I love expressing my creativity through art and experimenting with new recipes in the kitchen. I find joy in balancing the analytical and artistic sides of life.
 
 ---
 
