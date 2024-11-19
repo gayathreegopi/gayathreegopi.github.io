@@ -14,7 +14,7 @@ Beyond the numbers, I have a creative side that I express through art and music.
 
 ## [Explore My Work](/projects/)
 
-Feel free to explore my projects and experiences showcased here. Each project reflects my commitment to leveraging data for impactful decision-making. If you'd like to connect or discuss potential collaborations, don't hesitate to reach out.
+Each project and experience showcased here reflects my commitment to leveraging data for impactful decision-making. If you'd like to connect or discuss potential collaborations, don't hesitate to reach out.
 
 ---
 
