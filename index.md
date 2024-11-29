@@ -1,6 +1,8 @@
 # Hey there!
 I'm **Gayathree Gopi**, a passionate data enthusiast currently pursuing a Master of Science in Business Analytics at the University of Texas at Austin's McCombs School of Business. With a background in Computational Biology and a plethora of interesting experiences, I blend my love for data science with a solid foundation in life sciences research and impact-driven projects.
 
+[View My Resume](Gayathree_Gopi.pdf)
+
 ## [About Me](/about/)
 
 I thrive on transforming complex datasets into meaningful insights, particularly within the realms of finance and healthcare. My journey has equipped me with a diverse skill set, including:
