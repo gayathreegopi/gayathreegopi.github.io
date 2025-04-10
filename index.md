@@ -1,22 +1,31 @@
-# Hey there!
-I'm **Gayathree Gopi**, a passionate data enthusiast currently pursuing a Master of Science in Business Analytics at the University of Texas at Austin's McCombs School of Business. With a background in Computational Biology and a plethora of interesting experiences, I blend my love for data science with a solid foundation in life sciences research and impact-driven projects.
+# Welcome! I'm Gayathree Gopi
+I'm a strategy-focused analytics professional currently pursuing my Master of Science in Business Analytics at UT Austin’s McCombs School of Business. With a background in computational biology and a growing body of work in real estate investment and strategy consulting, I specialize in translating complex data into clear, actionable business insights.
+
+My recent work includes building market prioritization models, financial forecasting tools, and geospatial dashboards to support investment and development decisions across real estate and private equity domains.
 
 [View My Resume](Gayathree_Gopi_Resume.pdf)
 
-## [About Me](/about/)
+## [What I Do Best](/about/)
 
-I thrive on transforming complex datasets into meaningful insights, particularly within the realms of finance and healthcare. My journey has equipped me with a diverse skill set, including:
+I focus on helping organizations make smarter, faster decisions by combining:
 
-- **Programming Languages**: Python, R, SQL
-- **Data Analysis & Visualization**: Tableau, Power BI, matplotlib
-- **Machine Learning Techniques**: Regression models, classification, clustering
-- **Natural Language Processing**: spaCy, NLTK
+* Analytics & Modeling: Python, SQL, Tableau, Power BI
 
-Beyond the numbers, I have a creative side that I express through art and music. I believe that a balance between analytical thinking and creativity leads to innovative solutions.
+* Financial & Real Estate Strategy: Forecasting, investor modeling, market research
 
-## [Explore My Projects](/projects/)
+* Structured Thinking: Problem-solving under ambiguity, strategic communication
 
-Each project and experience showcased here reflects my commitment to leveraging data for impactful decision-making. If you'd like to connect or discuss potential collaborations, don't hesitate to reach out.
+* Geospatial & Market Insight Tools: Location-based modeling, site selection support
+
+I also bring creativity into my problem-solving — shaped by a lifelong interest in art, design, and storytelling. My approach blends structure and clarity with intuition and curiosity.
+
+## [Explore My Work](/projects/)
+
+The projects featured on this site reflect a deep interest in using analytics to guide investment strategy, improve decision-making, and uncover patterns that lead to meaningful business value.
+
+[Browse Projects](/projects/)
+
+If you're looking for someone who bridges data, business, and strategy — I'd love to connect.
 
 ---
 
