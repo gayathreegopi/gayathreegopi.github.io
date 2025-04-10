@@ -21,7 +21,7 @@ I also bring creativity into my problem-solving — shaped by a lifelong interes
 
 The projects featured here reflect my interest in analytics-backed strategy — from optimizing portfolios to modeling investor sentiment and identifying gaps in regional housing supply. Each one represents a different way I’ve brought structure to complex, real-world questions.
 
-[Browse Projects](/projects/)
+[Browse My Projects](/projects/)
 
 If you're looking for someone who works at the intersection of business, data, and strategy — I'd love to connect.
 
