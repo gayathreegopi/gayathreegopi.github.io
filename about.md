@@ -17,7 +17,7 @@ Whether it’s developing a weighted scoring model for market prioritization or 
 I work across business analytics, data science, and visualization tools to bring structure to ambiguity:
 
 **Languages & Tools:**  
-- **Python:** pandas, NumPy, scikit-learn, spaCy, matplotlib, PyTorch, VADER  
+- **Python:** pandas, NumPy, scikit-learn, spaCy, matplotlib, TensorFlow  
 - **SQL, R**, Excel (advanced), Tableau, Neo4j, Git  
 - **Optimization:** gurobipy, scipy  
 - **Certifications:** Google Data Analytics, Google BI, Snowflake  
