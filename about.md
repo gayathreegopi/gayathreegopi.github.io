@@ -6,26 +6,32 @@ permalink: /about/
 
 # About Me
 
-I'm an MS Business Analytics student at UT Austin, where I specialize in using data-driven techniques to solve complex financial and healthcare challenges. With a strong background in computational biology and hands-on experience in real estate investment analysis, I enjoy leveraging data science to generate impactful insights.
+I'm a strategy-minded analytics professional currently pursuing my MS in Business Analytics at UT Austin. With a foundation in computational biology and growing experience in real estate investment and data consulting, I focus on transforming complex data into insights that support business decisions, market strategy, and investment outcomes.
 
-## My Technical Background
+My recent work spans multifamily real estate analytics, investment forecasting, and structured market research. I’ve supported a $20M pipeline for an urban redevelopment firm, automated investment analysis processes for multifamily comps, and built sentiment-augmented forecasting models for cryptocurrency price movement.
 
-My journey has equipped me with a versatile set of technical skills across data science, finance, and research. At K7 Capital Partners, I analyzed multifamily real estate investments worth over $20 million, developing advanced financial models and leading data-driven strategies that achieved significant results. I've also built predictive models for cryptocurrency price forecasting using LSTM networks and conducted natural language processing projects to assess public sentiment for NASA and ISRO.
+Whether it’s developing a weighted scoring model for market prioritization or presenting site selection recommendations using geospatial data, I approach problems by blending clarity, curiosity, and structured thinking.
 
-**Key Technical Skills:**
-- **Python**: Data Analysis (pandas, NumPy, matplotlib), Natural Language Processing (spaCy, nltk, VADER, BERT), Machine
-Learning (PyTorch, scikit-learn, TensorFlow), Optimization (gurobipy, scipy), Financial Analysis (yfinance)
-- **R**: Machine Learning (randomForest, BART), Statistical Testing (ANOVA, Chi-Square), Data Wrangling & Visualization
-- **Software**: MS Excel & Financial Modeling, SQL, C++, Neo4j, Tableau, GitHub, Visual Studio Code, TACC Supercomputer
-- **Certifications**: Google Data Analytics Professional, Google Business Intelligence Professional, Snowflake Data Warehouse
+## My Technical Toolkit
 
-I am passionate about applying these skills to real-world problems, whether it’s optimizing investment portfolios, predicting market trends, or uncovering actionable insights from unstructured data.
+I work across business analytics, data science, and visualization tools to bring structure to ambiguity:
 
-## Beyond Data
+**Languages & Tools:**  
+- **Python:** pandas, NumPy, scikit-learn, spaCy, matplotlib, PyTorch, VADER  
+- **SQL, R**, Excel (advanced), Tableau, Neo4j, Git  
+- **Optimization:** gurobipy, scipy  
+- **Certifications:** Google Data Analytics, Google BI, Snowflake  
 
-When I'm not diving into data, I love expressing my creativity through art and experimenting with new recipes in the kitchen. I find joy in balancing the analytical and artistic sides of life.
+**Application Areas:**  
+- Investment modeling & forecasting  
+- Real estate analytics  
+- Sentiment analysis & NLP  
+- Market research & automation
+
+## Outside the Spreadsheet
+
+Beyond analytics, I have a lifelong creative streak — I run a devotional art brand (Chitralekha Creations), design visual narratives, and experiment with storytelling through both code and color. I believe insight is strongest when it’s both rigorous and relatable.
 
 ---
 
-*Contact me at [gayathreegopi@utexas.edu](mailto:gayathreegopi@utexas.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/gayathreegopi/).*
-
+*Want to connect? Reach out at [gayathreegopi@utexas.edu](mailto:gayathreegopi@utexas.edu) or [LinkedIn](https://www.linkedin.com/in/gayathreegopi/).*
